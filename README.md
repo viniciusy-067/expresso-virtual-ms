@@ -2,7 +2,7 @@
 
 # 🚛 ExpressoVirtual MS
 
-![Banner](docs/assets/log.png)
+![Banner](docs/assets/banner.png)
 
 ### Uma empresa virtual feita por entusiastas da simulação
 **Dirija, resenhe e divirta-se — sem burocracia.**
