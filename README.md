@@ -2,7 +2,7 @@
 
 # 🚛 ExpressoVirtual MS
 
-![Banner](assets/banner.png)
+
 <img src="assets/banner.png" alt="banner" width="300">
 
 
@@ -78,7 +78,7 @@ onde o foco é **a simulação e o prazer de dirigir**, não o excesso de regras
 
 
 Exemplo de visual:
-![Preview](assets/Preview.png)
+
 <img src="assets/Preview.png" alt="preview" width="300">
 ---
 
@@ -104,7 +104,7 @@ A reprodução, redistribuição ou uso comercial só é permitida com autoriza�
 ### 🛣️ ExpressoVirtual MS
 **Rodando nas estradas da Europa, com destino à diversão.**
 
-![Divider](assets/Divider.png)
+
 <img src="assets/Divider.png" alt="divider" width="300">
 
 </div>
