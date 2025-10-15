@@ -2,7 +2,10 @@
 
 # 🚛 ExpressoVirtual MS
 
-![Banner](Expresso-virtual-Ms/assets/banner.png)
+<p align="center">
+  <img src="Expresso-virtual-Ms/assets/banner.png" alt="Banner" width="400"/>
+</p>
+
 
 
 ### Uma empresa virtual feita por entusiastas da simulação
@@ -77,8 +80,10 @@ onde o foco é **a simulação e o prazer de dirigir**, não o excesso de regras
 
 
 Exemplo de visual:
+<p align="center">
+  <img src="Expresso-virtual-Ms/assets/Preview.png" alt="Banner" width="400"/>
+</p>
 
-![Preview](Expresso-virtual-Ms/assets/Preview.png)
 ---
 
 ## 👨‍💻 Autor
@@ -103,6 +108,9 @@ A reprodução, redistribuição ou uso comercial só é permitida com autoriza�
 ### 🛣️ ExpressoVirtual MS
 **Rodando nas estradas da Europa, com destino à diversão.**
 
-![Divider](Expresso-virtual-Ms/assets/Divider.png)
+<p align="center">
+  <img src="Expresso-virtual-Ms/assets/Divider.png" alt="Banner" width="400"/>
+</p>
+
 
 </div>
