@@ -2,7 +2,7 @@
 
 # 🚛 ExpressoVirtual MS
 
-![Banner](https://via.placeholder.com/1000x250/1e1e2f/ffffff?text=ExpressoVirtual+MS+-+Euro+Truck+Simulator+2)
+![Banner](docs/assets/log.png)
 
 ### Uma empresa virtual feita por entusiastas da simulação
 **Dirija, resenhe e divirta-se — sem burocracia.**
@@ -76,7 +76,7 @@ onde o foco é **a simulação e o prazer de dirigir**, não o excesso de regras
 
 
 Exemplo de visual:
-![Preview](https://via.placeholder.com/900x500/2e2e3f/ffffff?text=Preview+ExpressoVirtual+MS)
+![Preview](docs/assets/Preview.png)
 
 ---
 
@@ -102,6 +102,6 @@ A reprodução, redistribuição ou uso comercial só é permitida com autoriza�
 ### 🛣️ ExpressoVirtual MS
 **Rodando nas estradas da Europa, com destino à diversão.**
 
-![Divider](https://via.placeholder.com/600x3/00aaff/00aaff)
+![Divider](docs/assets/Divider.png)
 
 </div>
