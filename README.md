@@ -109,7 +109,7 @@ A reprodução, redistribuição ou uso comercial só é permitida com autoriza�
 **Rodando nas estradas da Europa, com destino à diversão.**
 
 <p align="center">
-  <img src="Expresso-virtual-Ms/assets/Divider.png" alt="Banner" width="400"/>
+  <img src="Expresso-virtual-Ms/assets/Divider.png" alt="Banner" width="50"/>
 </p>
 
 
